@@ -1,6 +1,3 @@
-# Ricardo
-
-Ricardo Technical Test
 
 Scenario:
 A website called Pen n’ Paper.com has just been given their first look at their new website. 
