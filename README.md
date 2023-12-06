@@ -1,4 +1,3 @@
-
 Scenario:
 A website called Pen n’ Paper.com has just been given their first look at their new website. 
 After a period of testing, they have come back with some additional features they would like.
