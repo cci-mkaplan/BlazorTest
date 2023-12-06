@@ -5,3 +5,5 @@
 /Ricardo.Technical.Test/bin/Debug/net7.0
 /.vs
 /Ricardo.Technical.Test/obj
+/Ricardo.Technical.IntegrationTest/obj
+/Ricardo.Technical.IntegrationTest/bin/Debug/net7.0
