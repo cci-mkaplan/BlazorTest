@@ -21,6 +21,5 @@ The app consists of the following features:
 For this test:
 Add the features the client has requested. You may also notice a few issues with the application, 
 which you should address in a manner you feel is appropriate.
-There is no time limit for completing this test.
 You will need a copy of Visual Studio 2022 to run this application.
 The username and password for the customer is "test" and 1234 respectively
